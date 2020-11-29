@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="MyList\" />
+    <Folder Include="Calculator\" />
+    <Folder Include="Calculator\Tokens\" />
+    <Folder Include="Calculator\Tokens\Oparators\" />
+    <Folder Include="Calculator\Exceptions\" />
+  </ItemGroup>
+</Project>
